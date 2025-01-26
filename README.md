@@ -1,0 +1,1 @@
+Each of the folders contain projects of exploratory visual analytics. Each of them consists of a project file (tableau) and a cleaned dataset file. For each project I have used CSV files downloaded from KAGGLE. Hope you enjoy the Insights !!!.
